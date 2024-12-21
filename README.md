@@ -12,3 +12,6 @@ Este repositório contém os artefatos produzidos durante a disciplina de **Aná
   - Diagramas UML: Casos de uso, classes, sequência, atividade, entre outros.  
 - **Docs**  
   - Especificações de requisitos, descrição de casos de uso e documentação geral.  
+
+## 🛠️ Link do repositório do projeto
+https://gitlab.com/lucasdebrito.jd/quiz-design-patterns/-/tree/develop?ref_type=heads
